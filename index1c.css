@@ -1,0 +1,180 @@
+body {
+margin: 0;
+padding: 0;
+}
+.holder {
+
+	width: 940px;
+	height: 1600px;
+	margin: 0 auto;
+	
+
+
+}
+header {
+	width: 940px;
+	height: 137px;
+
+}
+.header-left {
+	width: 320px;
+	height: 137px;
+	
+	float: left;
+}
+.header-left img {
+	margin:  37px 0 0 15px;
+
+}
+
+.header-right {
+	width: 620px;
+	height: 137px;
+	
+	float: right;
+}
+.header-right ul {
+	width: 530px;
+	height: 40px;
+    float: right;
+   
+    margin: 60px 0 0 0;
+    padding: 0;
+    list-style-type: none; 
+
+
+}
+.header-right ul li {
+	height: 40px;
+	float: left;
+	padding: 0 10px;
+	border-left: 1px dotted #666666;
+
+}
+.header-right ul li h1 {
+	font-family: Georgia;
+	font-size: 14px;
+	color: #666666;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 0;
+}
+.header-right ul li span {
+	font-family: tacoma;
+	font-size: 11px;
+	color: #b7b7b7;
+
+
+}
+.header-right ul li a {
+	text-decoration: none;
+	height: 40px;
+	color: #666666;
+
+
+}
+.senka {
+	display: block;
+	width: 930px;
+	height: 13px;
+	background: url(slider-shadow.png);
+	float: left;
+	
+}
+.slider{
+	width: 940px;
+	height: 410px;
+	float: left;
+
+}
+
+.slider h1 {
+	width: 940px;
+	font-family: Georgia;
+	font-size: 24px;
+	text-align: center;
+	height: 50px;
+	border-bottom: 1px solid #e5e5e5;
+	color: #666666;
+	float: left;
+}
+.main-list {
+	width: 940px;
+	height: 435px;
+	margin: 0;
+	padding: 0;
+	background-color: green;
+	float: left;
+}
+.list-header{
+	height: 40px;
+}
+.list-header h1{
+	font-size: 21px;
+	margin: 0;
+	padding: 0;
+	color: #11719e;
+
+}
+.list-header span {
+	display: block;
+	color: #666666;
+	font-size: 12px;
+
+}
+.gorna-senka{
+	width: 299px;
+	height: 3px;
+	display: block;
+	background-image: url(img-shadow-up.png);
+
+}
+.dolna-senka{
+	width: 299px;
+	height: 3px;
+	display: block;
+	background-image: url(img-shadow-down.png);
+}
+.imgholder{
+	float: left;
+	height: 205px;
+	margin: 20px 0 0 0 ;
+
+}
+.main-list a{
+	h
+}
+.imgholder img{
+	float: left;
+	border-radius: 5px;
+	border: 1px solid grey;
+}
+.main-list p{
+	color: #3e3e3e;
+	font-size: 13px;
+	line-height: 18px;
+
+}
+.main-list a {
+	display: block;
+	float: left;
+	width: 160px;
+	height: 30px;
+	background-color: #e8e8e88e;
+	border: 1px solid #d88d8d8d;
+	border-radius: 5px;
+
+}
+.link-text{
+	color: #016999;
+	display: block;
+	float: left;
+	font-size: 13px;
+	margin: 7px 0 0 12px;
+}
+.link-arrpw{
+	width: 18px;
+	
+
+}
+.main-list li{ last-chlid: margin 0; }
