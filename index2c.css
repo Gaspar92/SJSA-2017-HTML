@@ -1,0 +1,151 @@
+body {
+	margin: 0;
+	padding: 0;
+
+}
+.holder {
+	width: 940px;
+	height: 637px;
+	margin: 0 auto;
+	
+
+	
+
+}
+header {
+	width: 940px;
+	height: 637px;
+	background-color: #FFD732;
+}
+
+.left-h{
+	width: 188px;
+	height: 35px;
+	float: left;
+	display: inline-block;
+}
+.left-h img {
+	margin: 37px 0 0 157px;
+}
+.left-h h1 {
+	width: 184px;
+	height: 17px;
+	font-size: 14px;
+	margin: 100px 0 0 157px;
+	float: left;
+	text-align: left;
+}
+.left-h h2 {
+	font-size: 11px;
+	margin: 20px 0 0 157px;
+	width: 331px;
+	height: 26px;
+	float: left;
+
+}
+.left-h p{
+	 color: #808080;
+     font-size: 10px;
+     margin: 30px 0 0 150px;
+     padding:0;
+    width:264px;
+    height:64px;
+    float: left;
+}
+
+.left-h ul {
+	display: flex;
+	flex-direction: row ;
+
+	justify-content: flex-start;
+  list-style: none;
+   padding: 0;
+    white-space: nowrap;
+
+
+}
+.left-h ul li{
+	margin:240px 15px 15px -250px;
+}
+	
+.right-h {
+	width: 620px;
+	height: 137px;
+	
+	float: right;
+}
+.right-h ul {
+	display: flex;
+	flex-direction:row;
+	
+  list-style: none;
+   padding: 0 10px;
+    
+    font-size: 12px;
+margin: 20px 0 0 200px;
+
+}
+
+.rightr-h ul li {
+   margin: 0 0 0 200px; 
+   
+
+}
+.right-h img {
+	float: right;
+	margin: 80px 150px 0 0;
+}
+.foot {
+	width: 940px;
+ height: 637px;
+ margin: 0;
+}
+.centar-f {
+	font-size: 30px;
+	
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center; 
+  margin: 100px 0 0 400px;
+}
+p {
+	font-size: 12px;
+	 text-align: center; 
+	 display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 15px 0 0 400px;
+}
+.left-f  ul {
+	display: flex;
+  flex-direction: column;
+  
+  float: left;
+	  }
+.left-f ul li {
+	display: flex;
+  flex-direction: column;
+  margin: 90px 0 0 200px;
+
+
+
+}
+.left-f ul li img {
+	width: 30px;
+	height:30px;
+	float: left;
+	display: block;
+}
+.left-f ul li span {
+	float: right;
+	text-align: left;
+}
+.left-f ul p {
+	margin: 10px 0 0 200px;
+	text-align:left;
+}
+
+
+
+
